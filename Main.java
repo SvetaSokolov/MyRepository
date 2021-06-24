@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args){
         
         int n=4;
-        int x=6;
+        int x=7;
         int[]arr={5,8,10,12};
         //long arr[]=new long[n+1];
         System.out.println(exist(arr,x));   
